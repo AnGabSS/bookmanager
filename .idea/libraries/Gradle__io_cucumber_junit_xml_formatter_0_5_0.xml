@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:junit-xml-formatter:0.5.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.cucumber" artifactId="junit-xml-formatter" version="0.5.0" baseVersion="0.5.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/junit-xml-formatter/0.5.0/a3ecc37ce04a66ec679f9d1710a6891d2c703cc3/junit-xml-formatter-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.cucumber:testng-xml-formatter:0.2.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="io.cucumber" artifactId="testng-xml-formatter" version="0.2.0" baseVersion="0.2.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/testng-xml-formatter/0.2.0/c054063da9d923e3649e1ec385cea84af6dd712b/testng-xml-formatter-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

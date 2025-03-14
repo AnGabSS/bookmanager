@@ -9,6 +9,7 @@ public class User {
     private UserType type;
 
     public User(Long id, String name, String email, String password, UserType type) {
+        this.id = id;
         this.name = name;
         this.email = email;
         this.password = password;

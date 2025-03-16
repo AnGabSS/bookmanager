@@ -136,6 +136,8 @@
     <orderEntry type="library" name="Gradle: io.cucumber:gherkin:28.0.0" level="project" />
     <orderEntry type="library" name="Gradle: io.cucumber:query:12.2.0" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.24.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.postgresql:postgresql:42.7.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.checkerframework:checker-qual:3.48.3" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jboss.logging:jboss-logging:3.6.1.Final" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.hibernate.common:hibernate-commons-annotations:7.0.3.Final" level="project" />
@@ -179,8 +181,6 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.angus:angus-activation:2.0.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:txw2:4.0.5" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.istack:istack-commons-runtime:4.1.2" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.checkerframework:checker-qual:3.37.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.projectlombok:lombok:1.18.36" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="usermanagement.main" />
 </module>

@@ -2,8 +2,6 @@ package com.tech.padawan.bookmanager.usermanagement.steps;
 
 import com.tech.padawan.bookmanager.usermanagement.application.dto.UserRegister;
 import com.tech.padawan.bookmanager.usermanagement.application.dto.UserResponse;
-import com.tech.padawan.bookmanager.usermanagement.application.service.UserService;
-import com.tech.padawan.bookmanager.usermanagement.domain.model.user.User;
 import com.tech.padawan.bookmanager.usermanagement.domain.model.user.UserType;
 import com.tech.padawan.bookmanager.usermanagement.services.RegisterUserService;
 import io.cucumber.java.en.Given;
